@@ -17,8 +17,17 @@ This project was built to address three core business questions:
 
 ## 📁 Repository Structure
 
+Dataset:  [Link](https://github.com/ndtruog41-afk/data-analysis_tableu-1/blob/main/Dataset.xlsx)
 ```text
-.
-├── Dataset.xlsx        # Multi-sheet Excel workbook (Sales, Demographics, WTP Survey)
-├── Output.twbx         # Packaged Tableau Workbook containing interactive dashboards
-└── README.md           # Project documentation
+# Multi-sheet Excel workbook (Sales, Demographics, WTP Survey)
+```
+Output: [Link](https://github.com/ndtruog41-afk/data-analysis_tableu-1/blob/main/Output.twbx)
+```text
+# Packaged Tableau Workbook containing interactive dashboards
+```
+
+---
+
+## Dashboard
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/2b23109a-91c9-4b18-b7ce-e5f83e84e07a" />
+
